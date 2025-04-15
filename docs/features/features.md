@@ -11,7 +11,7 @@
 Clone the repository and run the following command to start the application:
 
 ```bash
-$ git clone <url-du-TP4/quotes>
+$ git clone git@github.com:plambert684/quotes-foo-b.git
 $ cd quotes
 $ python main.py
 ```
